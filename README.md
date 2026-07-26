@@ -2,7 +2,7 @@
 
 **`Full Stack Developer | DevSecOps Learner | Cybersecurity Student`**
 
-I'm a Paris-based full-stack developer building secure, reliable, and user-friendly web applications.
+I'm a Paris-based full-stack developer building secure, reliable, and user-friendly digital solutions.
 
 Currently admitted to a Master's degree in **Systems Design and Cybersecurity** at UPEC, I am looking for a **professionalization contract starting in September 2026**.  
 My work focuses on **full-stack development**, **secure application design**, **DevSecOps practices**, and **cloud-based software projects**.
